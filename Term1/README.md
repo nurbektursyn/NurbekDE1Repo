@@ -1,14 +1,14 @@
 ![Project_on_Coffee_Bean_Sales_Dataset](https://github.com/user-attachments/assets/625435f4-ff55-43fe-9e86-d7bdf242ac4a)
 # Coffee Bean Sales Raw Dataset Project
 
-[The Coffee Bean Sales Dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset), retireved from Kaggle, offers a comprehensive view into the coffee industry, capturing key data on customer demographics, order transactions, and a variety of coffee products. 
-The dataset will be used to analyze sales trends and consumer behavior. This README serves as a guide to setting up, running, and understanding the project.
+[The Coffee Bean Sales Dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset), retrieved from Kaggle, offers a comprehensive view into the coffee industry, capturing key data on customer demographics, order transactions, and a variety of coffee products. 
+The dataset will be used to analyze sales trends and consumer behaviour. This README serves as a guide to setting up, running, and understanding the project.
 
 ## Project Documentation
 
 ### 1. Data Structure
 
-The dataset came in the raw .xlsx format with 3 sheets (orders, customers, producsts) in it. See ***'Coffee.xlsx'*** for more details. For simplicity, I have divided these 3 sheets into 3 separate .csv files.
+The dataset came in raw .xlsx format with 3 sheets (orders, customers, products) in it. See ***'Coffee.xlsx'*** for more details. For simplicity, I have divided these 3 sheets into 3 separate .csv files.
 
 There are:
 1. **Coffee_Customers.csv**
