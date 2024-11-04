@@ -1,3 +1,4 @@
+![Project_on_Coffee_Bean_Sales_Dataset](https://github.com/user-attachments/assets/625435f4-ff55-43fe-9e86-d7bdf242ac4a)
 # Coffee Bean Sales Raw Dataset Project
 
 [The Coffee Bean Sales Dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset), retireved from Kaggle, offers a comprehensive view into the coffee industry, capturing key data on customer demographics, order transactions, and a variety of coffee products. 
