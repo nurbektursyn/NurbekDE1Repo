@@ -31,7 +31,6 @@ There are:
   - Customer ID (string): Unique identifier for each customer.
   - Product ID (string): Unique identifier for each coffee product.
   - Quantity (integer): Number of units ordered.
-  - 
 3. **Coffee_Products.csv**
   - Contains product details:
   
@@ -54,6 +53,7 @@ There are:
    - ```gh repo clone nurbektursyn/NurbekDE1Repo```
 2. Create a Schema
    - Open MySQL Workbench and create a new schema named coffee:
+     
 ```CREATE SCHEMA coffee;```
   - Refresh the schema list to see the newly created coffee schema.
 3. Import Tables
