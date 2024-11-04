@@ -52,7 +52,7 @@ There are:
 
 ## 2. Reproducibility Instructions
 
-1. Download the repository or Install Manually as a ZIP File.
+1. Download the repository or Install Manually as a ZIP File
    - ```gh repo clone nurbektursyn/NurbekDE1Repo```
 2. Create a Schema
    - Open MySQL Workbench and create a new schema named coffee:
