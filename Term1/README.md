@@ -64,4 +64,5 @@ Follow the wizard’s prompts to map columns as needed.
 4. Run SQL Scripts
   - Coffee_Customers.sql: Run this script to create and populate the Coffee_Customers table.
   - coffee_script.sql: Run this script to see the analysis and insights.
-Note: Due to importing issues (likely due to data types), directly importing Coffee_Customers.csv using wizard did not work. Instead, had to create a script using [CSV to SQL converter](https://www.convertcsv.com/csv-to-sql.htm). 
+
+*Note: Due to importing issues (likely due to data types), directly importing Coffee_Customers.csv using wizard did not work. Instead, had to create a script using [CSV to SQL converter](https://www.convertcsv.com/csv-to-sql.htm).*
