@@ -48,6 +48,8 @@ There are:
 - ***Customer-Order Relationship***: Customer ID in Coffee_Orders.csv links to Customer ID in Coffee_Customers.csv.
 - ***Order-Product Relationship***: Product ID in Coffee_Orders.csv links to Product ID in Coffee_Products.csv.
 
+![EER_Diagram](https://github.com/user-attachments/assets/fc48f4a6-9ee1-4360-b328-6d09b2113ece)
+
 ## 2. Reproducibility Instructions
 
 1. Download the repository or Install Manually as a ZIP File.
