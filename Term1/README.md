@@ -62,7 +62,8 @@ There are:
 3. Import Tables
   - In the coffee schema, right-click **Tables** and select **Table Data Import Wizard**. Use this wizard to upload the following CSV files:
     - Coffee_Orders.csv
-    - Coffee_Products.csv  Follow the wizard’s prompts to map columns as needed.
+    - Coffee_Products.csv
+  - Follow the wizard’s prompts to map columns as needed.
 4. Run SQL Scripts
   - Coffee_Customers.sql: Run this script to create and populate the Coffee_Customers table.
   - coffee_script.sql: Run this script to see the analysis and insights.
