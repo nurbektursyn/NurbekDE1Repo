@@ -7,7 +7,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-CREATE SCHEMA coffee;
+CREATE SCHEMA IF NOT EXISTS coffee;
 
 USE coffee;
 
@@ -218,7 +218,7 @@ SET GLOBAL event_scheduler = OFF;
 
 -- DATA MART 1 (Product Sales)
 
-DROP TABLE mv_product_sales;
+DROP TABLE IF EXISTS mv_product_sales;
 CREATE TABLE mv_product_sales (
     coffee_type VARCHAR(50),
     order_date DATE,
