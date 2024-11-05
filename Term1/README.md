@@ -57,7 +57,7 @@ There are:
 2. Create a Schema
    - Open MySQL Workbench and create a new schema named coffee:
      
-```CREATE SCHEMA coffee;```
+   - ```CREATE SCHEMA coffee;```
   - Refresh the schema list to see the newly created coffee schema.
 3. Import Tables
   - In the coffee schema, right-click **Tables** and select **Table Data Import Wizard**. Use this wizard to upload the following CSV files:
